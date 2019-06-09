@@ -12,7 +12,7 @@ wget https://raw.githubusercontent.com/DoTMob/openVPN-DoTvpn/master/openvpn-inst
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
 I want to run my own VPN but don't have a server for that
-You can get a VPS from just $3/month at www.OVH.CA  with anti-Ddos protection
+You can get a VPS from just $3/month at https://www.ovh.com/world/vps/  or   https://www.vultr.com  with anti-Ddos protection
 
 
 
